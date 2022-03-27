@@ -1,0 +1,33 @@
+.div_pai{
+    height:650px;  
+    width:450px; 
+    background-color: #9e0e0e; 
+    float: left;
+}
+
+.div_filho1{
+    height:100%; 
+    width:50%; 
+    background-color: #ee4d4d;
+}
+
+.div_filho2{
+    color:#610202; 
+    background-color:rgb(247, 107, 26); 
+    font-size: 40px; 
+    font-family: monospace; 
+    font-weight: bold;
+}
+
+.div_pai2{
+    width:50%;  
+    height:60vh; 
+    background-color: rgb(227, 241, 28); 
+    float: right;
+}
+
+.div_filho3{
+    width: 75vw; 
+    height: 40%;
+    background-color: rgb(250, 78, 78);
+}
